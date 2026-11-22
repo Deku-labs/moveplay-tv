@@ -1,0 +1,98 @@
+{
+  "apple": {
+    "juice": "#F8312F",
+    "flesh": "#FFF1C9",
+    "name": "Apple",
+    "color": "red"
+  },
+  "green_apple": {
+    "juice": "#86D72F",
+    "flesh": "#F4F7C6",
+    "name": "Green Apple",
+    "color": "green"
+  },
+  "banana": {
+    "juice": "#FFD43B",
+    "flesh": "#FFF3B8",
+    "name": "Banana",
+    "color": "yellow"
+  },
+  "watermelon": {
+    "juice": "#FF2E4D",
+    "flesh": "#FF4D5E",
+    "name": "Watermelon",
+    "color": "red"
+  },
+  "orange": {
+    "juice": "#FF8A1F",
+    "flesh": "#FFA940",
+    "name": "Orange",
+    "color": "orange"
+  },
+  "lemon": {
+    "juice": "#FFE135",
+    "flesh": "#FFF27A",
+    "name": "Lemon",
+    "color": "yellow"
+  },
+  "grapes": {
+    "juice": "#8E3FBF",
+    "flesh": "#D8F09A",
+    "name": "Grapes",
+    "color": "purple"
+  },
+  "strawberry": {
+    "juice": "#F01F3D",
+    "flesh": "#FF7A8A",
+    "name": "Strawberry",
+    "color": "red"
+  },
+  "pineapple": {
+    "juice": "#FFC81F",
+    "flesh": "#FFE066",
+    "name": "Pineapple",
+    "color": "yellow"
+  },
+  "peach": {
+    "juice": "#FF8C42",
+    "flesh": "#FFC27A",
+    "name": "Peach",
+    "color": "orange"
+  },
+  "pear": {
+    "juice": "#B5E03A",
+    "flesh": "#F7F5D0",
+    "name": "Pear",
+    "color": "green"
+  },
+  "cherries": {
+    "juice": "#D3123A",
+    "flesh": "#B3123A",
+    "name": "Cherries",
+    "color": "red"
+  },
+  "kiwi": {
+    "juice": "#55C21B",
+    "flesh": "#7BD63A",
+    "name": "Kiwi",
+    "color": "green"
+  },
+  "mango": {
+    "juice": "#FFA51F",
+    "flesh": "#FFC83D",
+    "name": "Mango",
+    "color": "orange"
+  },
+  "coconut": {
+    "juice": "#E9E4DA",
+    "flesh": "#FBFAF5",
+    "name": "Coconut",
+    "color": "brown"
+  },
+  "blueberries": {
+    "juice": "#5B3FD1",
+    "flesh": "#B9C2E8",
+    "name": "Blueberries",
+    "color": "blue"
+  }
+}

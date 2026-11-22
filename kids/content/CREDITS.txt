@@ -1,0 +1,55 @@
+Move & Play - audio credits
+===========================
+
+SOUND EFFECTS (content/audio/*.wav)
+  Kenney (www.kenney.nl) - CC0 1.0 (public domain): https://creativecommons.org/publicdomain/zero/1.0/
+    Interface Sounds  https://kenney.nl/assets/interface-sounds
+    Digital Audio     https://kenney.nl/assets/digital-audio
+    Music Jingles     https://kenney.nl/assets/music-jingles
+  Mapping:
+    audio/pop1.wav <- interface-sounds/Audio/drop_002.ogg
+    audio/pop2.wav <- interface-sounds/Audio/drop_003.ogg
+    audio/pop3.wav <- interface-sounds/Audio/drop_004.ogg
+    audio/boop.wav <- interface-sounds/Audio/maximize_009.ogg
+    audio/gold.wav <- interface-sounds/Audio/confirmation_004.ogg
+    audio/correct.wav <- interface-sounds/Audio/confirmation_001.ogg
+    audio/wrong.wav <- interface-sounds/Audio/question_002.ogg
+    audio/sparkle.wav <- interface-sounds/Audio/confirmation_002.ogg
+    audio/cheer.wav <- music-jingles/Audio/Pizzicato jingles/jingles_PIZZI02.ogg
+    audio/fanfare.wav <- music-jingles/Audio/Steel jingles/jingles_STEEL02.ogg
+    audio/tick.wav <- interface-sounds/Audio/tick_004.ogg
+    audio/jump.wav <- digital-audio/Audio/pepSound3.ogg
+    audio/coin.wav <- digital-audio/Audio/powerUp9.ogg
+    audio/focus.wav <- interface-sounds/Audio/toggle_001.ogg
+    audio/note.wav, audio/whoosh.wav <- synthesised by tools/build_audio.py (CC0, this project)
+
+MUSIC (content/music/*.m4a, re-encoded mono AAC)
+  music/menu.m4a - "a_respectable_amount_of_bounce.ogg" by Some Weirdo - CC0 1.0 - https://opengameart.org/content/a-respectable-amount-of-bounce
+  music/game.m4a - "banana_track.ogg" by skrjablin - CC0 1.0 - https://opengameart.org/content/banana-track
+  music/dance.m4a - "HappyClappyLoop.mp3" by OwlishMedia - CC0 1.0 - https://opengameart.org/content/happy-clappy-loop
+  music/calm.m4a - "song17.mp3" by cynicmusic - CC0 1.0 - https://opengameart.org/content/happy-lullaby-song17
+  music/run.m4a - "happy_adveture.mp3" by TinyWorlds - CC0 1.0 - https://opengameart.org/content/happy-adventure-loop
+  music/finale.m4a - "Bouncy.mp3" by AdoTheLimey - CC0 1.0 - https://opengameart.org/content/bouncy-tune
+  All tracks above are marked CC0 (public domain) on their OpenGameArt pages (License(s) field, checked
+  2026-11-21). Credit is not required; it is given here anyway with thanks.
+
+VOICE (content/voice/*.m4a)
+  Bubbo's lines are rendered with the macOS 'Samantha' system voice by tools/build_voice.py and pitched up.
+  NOTE: Apple's macOS licence allows using system-voice output in personal projects; check Apple's
+  licence terms before distributing the recordings commercially.
+
+=== MORE CREDITS (kept by build_audio.py) ===
+FRUIT ART (content/fruit/*.png)
+  Fruit art: Microsoft Fluent Emoji (Flat), MIT licence, https://github.com/microsoft/fluentui-emoji — outlines added. See LICENSE-FluentEmoji.txt
+  Source SVGs: assets/<Name>/Flat/<name>_flat.svg (orange.png is "Tangerine", kiwi.png is "Kiwi fruit").
+  Rasterised, trimmed, scaled to 236 px and given an ink outline for this project.
+
+SLICE / SWISH / SPLAT SOUNDS (content/audio/*.wav, mono 22050 Hz, trimmed + peak-normalised)
+  slice1.wav <- knifeSlice.ogg, slice2.wav <- knifeSlice2.ogg, chop.wav <- chop.ogg
+    from "RPG Audio" by Kenney (www.kenney.nl) - CC0 1.0 - https://kenney.nl/assets/rpg-audio
+  swish1.wav <- swish-13.wav, swish2.wav <- swish-12.wav, swish3.wav <- swish-2.wav
+    from "Swishes Sound Pack" by artisticdude - CC0 1.0 - https://opengameart.org/content/swishes-sound-pack
+  splat1.wav <- squishsplat_impact.mp3, splat2.wav <- squishpop.mp3
+    from "Squish Sounds Effects" by EZduzziteh - CC0 1.0 - https://opengameart.org/content/squish-sounds-effects
+  Licences checked 2026-11-22 (Kenney's bundled License.txt; OpenGameArt License(s) field). Credit is not
+  required for CC0; it is given here anyway with thanks.
